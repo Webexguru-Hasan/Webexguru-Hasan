@@ -1,5 +1,6 @@
 ![a Professional Front-End developer ](https://media.licdn.com/dms/image/D5616AQH2pxlZl6dTGA/profile-displaybackgroundimage-shrink_350_1400/0/1666785671830?e=1691020800&v=beta&t=0n0s5kBVoxyKbZmvG7D30DjUhLEiHgLd366CfdiLggc)
-### Hi there 👋, my name is Hasan wazid
+### Hi there 👋, 
+## my name is Hasan wazid
 #### a Professional Front-End developer 
 
 I am a highly skilled and experienced web developer with a strong background in creating and maintaining websites, web applications, and e-commerce platforms. My expertise includes working with various technologies such as HTML, CSS, Bootstrap, tailwind, JavaScript, and React. I have experience in front-end development, and I am well-versed in responsive design and cross-browser compatibility.
