@@ -1,6 +1,14 @@
-# 💫 About Me:
-Frontend development<br>Github<br>frontend development<br>React<br>HTML, CSS, Javascript, React
+![a Professional Front-End developer ](https://media.licdn.com/dms/image/D5616AQH2pxlZl6dTGA/profile-displaybackgroundimage-shrink_350_1400/0/1666785671830?e=1691020800&v=beta&t=0n0s5kBVoxyKbZmvG7D30DjUhLEiHgLd366CfdiLggc)
+### Hi there 👋, my name is Hasan wazid
+#### a Professional Front-End developer 
 
+I am a highly skilled and experienced web developer with a strong background in creating and maintaining websites, web applications, and e-commerce platforms. My expertise includes working with various technologies such as HTML, CSS, Bootstrap, tailwind, JavaScript, and React. I have experience in front-end development, and I am well-versed in responsive design and cross-browser compatibility.
+
+- 🔭 I’m currently working on Front-End development 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Via LinkedIn
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.wazid.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webexwazid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasanWazid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hasanwazid) 
