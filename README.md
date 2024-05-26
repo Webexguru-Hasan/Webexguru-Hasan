@@ -57,7 +57,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
 ## Projects and Details about me:
-![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
+![downloads](https://docs.google.com/document/d/1UJ_WGrCbdn1R5oJlrxdWRInbDHZIINpsTKBwhPzQ5ZE/edit?usp=sharing)
 
 ## Let's Connect and have a Chat!💬:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.wazid.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webexwazid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasanWazid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Webexguru_Hasan)
