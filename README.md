@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="center" color="#fff">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
