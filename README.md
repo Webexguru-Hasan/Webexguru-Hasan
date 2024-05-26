@@ -10,13 +10,10 @@ located_in: Sylhet, Bangladesh
 current_job: Front-End Developer
 email: webexguruhasan95@gmail.com
 phone: +88 01724248264
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+company: webexzone
+Mission & Vision:
+ "I am Hasan Wazid. A Proficient Front-end Developer and CMS expert with more than 3 years of experience delivering clean, functional, and user-friendly websites for my clients. My approach is to understand your needs and work collaboratively to achieve your goals. I have a proven track record of delivering projects on time within budget and to a high standard. I'm also very flexible and adaptable, able to work with clients from a range of different industries and backgrounds. My experience includes HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, React, Next.js, and Redux, and I also have a wealth of skills in WordPress and Shopify."
+
 
 fields_of_interests:
   [
