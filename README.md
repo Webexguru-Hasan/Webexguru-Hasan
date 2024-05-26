@@ -1,4 +1,4 @@
-![a Professional Front-End developer ]([https://media.licdn.com/dms/image/D5616AQH2pxlZl6dTGA/profile-displaybackgroundimage-shrink_350_1400/0/1666785671830?e=1701907200&v=beta&t=ROBD2ojq2TL5dJgC3IEUnC9kNjONXv7GhDf_vib02_s](https://media.licdn.com/dms/image/D5616AQFQVtOoqEb0Vw/profile-displaybackgroundimage-shrink_350_1400/0/1698602268992?e=1704326400&v=beta&t=PN0A5LNL__mtaRzYKJKkyYpy1ujlsaWgO-cjKj4VLEk)
+![a Professional Front-End developer ([https://media.licdn.com/dms/image/D5616AQH2pxlZl6dTGA/profile-displaybackgroundimage-shrink_350_1400/0/1666785671830?e=1701907200&v=beta&t=ROBD2ojq2TL5dJgC3IEUnC9kNjONXv7GhDf_vib02_s](https://media.licdn.com/dms/image/D5616AQFQVtOoqEb0Vw/profile-displaybackgroundimage-shrink_350_1400/0/1698602268992?e=1704326400&v=beta&t=PN0A5LNL__mtaRzYKJKkyYpy1ujlsaWgO-cjKj4VLEk)]
 ### Hi there 👋, 
 ## my name is Hasan wazid
 #### a Professional Front-End developer 
