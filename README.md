@@ -15,10 +15,7 @@ I am a highly skilled and experienced web developer with a strong background in 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Via LinkedIn
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-## 🌐 Socials:
+## Let's Connect and have a Chat!💬:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.wazid.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webexwazid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasanWazid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Webexguru_Hasan) 
 
 # 💻 Tech Stack:
