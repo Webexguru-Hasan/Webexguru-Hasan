@@ -5,9 +5,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Hasan Wazid
+located_in: Sylhet, Bangladesh
+current_job: Front-End Developer
 education:
   [
     "Self-Taught Developer and Designer",
@@ -39,18 +39,6 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
-###
-### Hi there 👋, 
-## my name is Hasan wazid
-#### a Professional Front-End developer 
-
-I am a highly skilled and experienced web developer with a strong background in creating and maintaining websites, web applications, and e-commerce platforms. My expertise includes working with various technologies such as HTML, CSS, Bootstrap, tailwind, JavaScript, and React. I have experience in front-end development, and I am well-versed in responsive design and cross-browser compatibility.
-
-- 🔭 I’m currently working on Front-End development 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Via LinkedIn
 
 ## Let's Connect and have a Chat!💬:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.wazid.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webexwazid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HasanWazid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Webexguru_Hasan) 
