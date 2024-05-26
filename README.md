@@ -13,15 +13,25 @@ phone: +88 01724248264
 
 company: webexzone
 
-Mission & Vision:
+Mission:
 [
-"Delivering Clean, Functional, and User-Friendly Websites",
-"Understanding Client Needs and Collaborative Work",
-"Proven Track Record of Timely and Budget-Conscious Project Delivery",
-"Flexibility and Adaptability Across Industries",
-"Expertise in Front-end Development and CMS"
+"Deliver High-Quality Web Solutions",
+"Prioritize Client Satisfaction",
+"Ensure Timely and Budget-Conscious Delivery",
+"Embrace Flexibility and Adaptability",
+"Leverage Technical Expertise",
+"Promote Continuous Learning and Innovation"
 ]
 
+vision:
+[
+"Lead in Innovative Web Development",
+"Excel in Design and Functionality",
+"Pioneer Mobile-First Solutions",
+"Inspire Trust and Reliability",
+"Champion Continuous Improvement",
+"Support Community Growth"
+]
 
 fields_of_interests:
   [
