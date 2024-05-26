@@ -8,6 +8,8 @@
 name: Hasan Wazid
 located_in: Sylhet, Bangladesh
 current_job: Front-End Developer
+email: webexguruhasan95@gmail.com
+phone: +88 01724248264
 education:
   [
     "Self-Taught Developer and Designer",
