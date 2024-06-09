@@ -38,22 +38,14 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Ethical hacking",
+    "cyber security",
     "DevOps",
   ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["NextJs, Cyber Security"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["playing football", "traveling", "reading", "physical activities", "Robotics"]
 ```
 
 ## Projects and Details about me:
