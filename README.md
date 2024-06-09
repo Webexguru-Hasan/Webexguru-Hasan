@@ -50,7 +50,7 @@ hobbies: ["playing football", "traveling", "reading", "physical activities", "Ro
 
 ## Projects and Details about me:
 ## Download My Resume
-[![Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue)](https://github.com/Webexguru-Hasan/Webexguru-Hasan/blob/main/hasan-wazid-resume%20(2).pdf) ## My Portfolio
+[![Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue)](https://github.com/Webexguru-Hasan/Webexguru-Hasan/blob/main/hasan-wazid-resume%20(2).pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://hasan-wazid-portfolio.vercel.app/)
 
 
